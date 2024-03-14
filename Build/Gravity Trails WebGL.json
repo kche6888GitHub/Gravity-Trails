@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "KC - Gravity Trails",
+"productVersion": "0.1",
+"dataUrl": "Gravity Trails WebGL.data.unityweb",
+"wasmCodeUrl": "Gravity Trails WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Gravity Trails WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
